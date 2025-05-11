@@ -1,0 +1,3 @@
+F:/assigmnet 2 DS/problem 1/cmake-build-debug/CMakeFiles/problem_1.dir
+F:/assigmnet 2 DS/problem 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/assigmnet 2 DS/problem 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
